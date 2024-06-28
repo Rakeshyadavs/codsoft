@@ -1,0 +1,153 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+h1{
+    
+    color: antiquewhite;
+    
+}
+.name{
+    margin-left: 60%;
+    margin-top: -2%;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+fieldset{
+    margin: 2%;
+}h2{
+    text-transform: uppercase;
+    text-shadow: 55px;
+    font-size: 660px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 500%;
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-top: -10%;
+}
+body{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-size: 2010%;
+    color: rgb(213, 210, 206);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 3%;
+    color: rgb(235, 245, 250);
+    margin-top: 5%;
+}
+legend{
+    color: rgb(165, 105, 105);
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif
+}
+fieldset{
+    align-items: flex-end;
+    margin-right: 50%;
+    padding: 1%;
+}
+.skill{
+    text-shadow: #605e59;
+    font-family:'Times New Roman';
+    -webkit-text-stroke-color: black;
+    color: rgb(149, 139, 116);
+}
+.logo{
+    height: 25%;
+    width: 20%;
+    margin-left: 75%;
+    position: relative;
+    border-radius: 90%;
+}    
+.nav ul li a {
+
+    display: inline;
+    justify-content: right;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(255, 195, 118);
+    padding:0 20px;
+    align-items:end;
+    background:transparent;
+    position: relative;
+}
+.a {
+   background-color: burlywood;
+}
+.nav ul li a:hover::after{
+    width: 70%;
+    
+    
+
+}
+.nav ul li a::after {
+    position: absolute;
+    left: 19%;
+    width: 0px;
+    height: 5px;
+    top: 100%;
+    content:'';
+    border-radius: 2px;
+    background:#8c6209;
+    transition: 0.5s;
+}
+.caption{
+    text-align: right;
+    margin-right: 5%;
+}
+.h3{
+    font-size: large;
+    font-family: sans-serif;
+    font-size: 150px;
+   margin-left: 120%;
+}
+button{
+    margin-left: 95%;
+    border: 50%;
+    
+}
+.r img{
+    border-radius: 60%;
+    margin-left: 77%;
+    position: relative;
+    height: 5%;
+    width: 280px;
+}
+.bgp img{
+    width: 59%;
+    position: absolute;
+    height: 69%;
+    margin-left: 54%;
+    margin-top: 3%;
+
+}
+
+li{
+    font-size: 20px;
+}
+p{
+    margin-right: 16%;
+    text-align: justify;
+    font-size: 30px;
+    font-family:cursive;
+}
+span{
+float: right;
+margin-right: 31%;
+}
+table{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    float: right;
+    margin-right: 5%;
+}
+.skill{
+    align-items: center;
+}
